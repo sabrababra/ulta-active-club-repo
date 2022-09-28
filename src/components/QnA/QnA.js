@@ -3,7 +3,7 @@ import './QnA.css';
 const QnA = () => {
     return (
         <div>
-            <div className="accordion mt-5" id="accordionExample">
+            <div className="accordion container mt-5" id="accordionExample">
   <div className="accordion-item">
     <h2 className="accordion-header" id="headingOne">
       <button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
