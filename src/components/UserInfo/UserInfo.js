@@ -14,7 +14,7 @@ const UserInfo = () => {
                 </div>
 
             </div>  
-            <div className='d-flex align-items-center gap-4 mt-3'>
+            <div className='d-flex align-items-center gap-4 mt-3 addBreak-section'>
                 <div>
                     <p className='fs-4 my-0 fw-semibold text-center'>10</p>
                     <p>Completed books</p>

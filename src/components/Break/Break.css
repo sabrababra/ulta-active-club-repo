@@ -1,0 +1,28 @@
+.break {
+    font-weight: 600;
+    padding: 8px;
+    border-radius: 50%;
+    background-color: white;
+    margin: 0 5px;
+    cursor: pointer;
+    }
+    
+    .break:hover {
+    background-color: rgb(233, 237, 255);
+    }
+    
+    .activeBreak {
+    font-weight: 600;
+    padding: 8px;
+    border-radius: 50%;
+    color: white;
+    background-color: rgb(44, 93, 255);
+    margin: 0 5px;
+    cursor: pointer;
+    }
+
+    .addBreak-section {
+        background-color: rgb(219, 219, 219);
+        padding: 15px 10px;
+        border-radius: 10px;
+        }
