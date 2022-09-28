@@ -6,12 +6,12 @@ import Sidebar from './components/Sidebar/Sidebar';
 
 function App() {
   return (
-    <div className="row">
-      <div className='col-12 col-sm-8'>
+    <div className="row gap-0">
+      <div className='col-12 col-sm-9'>
         <Header></Header>
         <Cards></Cards>
       </div>
-      <div className='col-12 col-sm-4'>
+      <div className='col-12 col-sm-3'>
           <Sidebar></Sidebar>
       </div>
     </div>
