@@ -1,15 +1,50 @@
 [
     {
-      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-      "category": "Men's Sneaker",
-      "name": "ULTRABOOST 22 SHOES",
-      "seller": "Addidas",
-      "price": 420,
-      "stock": 20,
-      "ratings": 4,
-      "ratingsCount": 3725,
-      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-      "shipping": 1,
-      "quantity": 0
+      "id": 1,
+      "name": "Nihir Valobasa",
+      "writer": "Mostak Ahmed",
+      "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/a72065a4b_189518.jpg",
+      "dis": "Writer Name, Mostaque Ahamed – মোশতাক আহমেদ",
+      "time": "5 hour"
     },
-]
+    {
+      "id": 2,
+      "name": "Rupar Palonk",
+      "writer": "Humayun Ahmed",
+      "img": "https://bdebooks.com/wp-content/uploads/2017/06/Rupar-Palonko-by-Humayun-Ahmed.jpg",
+      "dis": "Mobarak Hossein is the main character in this book. Mobarok imagines that he is a professor at a university and ...",
+      "time": "4 hour"
+    },
+    {
+      "id": 3,
+      "name": "Pather Panchali",
+      "writer": "Bibhutibhushan Bandyopadhyay",
+      "img": "https://rukminim1.flixcart.com/image/850/1000/kll7bm80/regionalbooks/y/z/3/pather-panchali-original-imagyzd7tgqu2mrg.jpeg?q=90",
+      "dis": "Pather Panchali is a 1955 Indian Bengali-language drama film written and directed by Satyajit Ray and produced by the Government of West Bengal.",
+      "time": "8 hour"
+    },
+    {
+      "id": 4,
+      "name": "Chokher Bali",
+      "writer": "Rabindranath Tagore",
+      "img": "https://m.media-amazon.com/images/M/MV5BMDhmYWE5OTYtMzI4NC00NzFkLWIwNjktZTEwODdlZGViN2MxXkEyXkFqcGdeQXVyMTAyNTA1MjY0._V1_FMjpg_UX1000_.jpg",
+      "dis": "Chokher Bali is a 2003 Indian Bengali language drama film based on the 1903 novel Chokher Bali by Rabindranath Tagore.",
+      "time": "3 hour"
+    },
+    {
+      "id": 5,
+      "name": "Oshomapto attojiboni",
+      "writer": " Bongobondhu Sheikh Mujibur Rahma",
+      "img": "https://bdebooks.com/wp-content/uploads/2019/10/17235655.jpg",
+      "dis": "Writer Name, Mostaque Ahamed – মোশতাক আহমেদ",
+      "time": "10 hour"
+    },
+    {
+      "id": 6,
+      "name": "Daraz Dipu No 2",
+      "writer": "Muhammad Jafor Iqbal",
+      "img": "https://static-01.daraz.com.bd/p/05d267222c6dfb5825c9f6d253691e84.jpg",
+      "dis": "is a very popular Bengali novel. This book was written by Muhammad Zafar Iqbal a very famous author. ",
+      "time": "2 hour"
+    }
+  ]
