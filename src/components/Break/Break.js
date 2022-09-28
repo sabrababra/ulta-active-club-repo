@@ -2,7 +2,7 @@ import React from 'react';
 import './Break.css'
 const Break = () => {
     return (
-        <div className='mt-5'>
+        <div className='my-5'>
            <h5>Add a break:</h5> 
            <div class="btn-group" role="group" aria-label="Basic outlined example">
                 <button type="button" class="btn btn-outline-primary rounded-circle ms-2">10m</button>

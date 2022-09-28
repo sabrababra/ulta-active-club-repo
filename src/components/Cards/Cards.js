@@ -1,13 +1,14 @@
 import React, { useEffect, useState } from 'react';
 import Book from '../Book/Book';
 import './Cards.css';
-const Cards = () => {
+const Cards = ({addTime}) => {
     const [books, setBooks] = useState([]);
     useEffect(() => {
         fetch('books.json')
             .then(res => res.json())
             .then(data => setBooks(data))
     }, []);
+    
     return (
         <div className='mt-5'>
              <h4>Reading book regularly</h4>
@@ -16,6 +17,7 @@ const Cards = () => {
                 books.map(book=><Book
                 key={book.id}
                 book={book}
+                addTime={addTime}
                 ></Book>)
             }
             </div>

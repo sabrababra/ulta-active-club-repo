@@ -3,7 +3,7 @@ import './UserInfo.css';
 import { MdOutlineLocationOn } from 'react-icons/md';
 const UserInfo = () => {
     return (
-        <div>
+        <div className='mb-5'>
           <div className='d-flex align-items-center gap-3'>
                 <div>
                 <img className='protfolio-img rounded' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfvcw2EqspliOB3odOlleO_KfqNy4No1Q-8nSmqt4&s" alt="" />

@@ -5,7 +5,7 @@
       "writer": "Mostak Ahmed",
       "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/a72065a4b_189518.jpg",
       "dis": "Writer Name, Mostaque Ahamed – মোশতাক আহমেদ",
-      "time": "5 hour"
+      "time": 5
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@
       "writer": "Humayun Ahmed",
       "img": "https://bdebooks.com/wp-content/uploads/2017/06/Rupar-Palonko-by-Humayun-Ahmed.jpg",
       "dis": "Mobarak Hossein is the main character in this book. Mobarok imagines that he is a professor at a university and ...",
-      "time": "4 hour"
+      "time": 4
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
       "writer": "Bibhutibhushan Bandyopadhyay",
       "img": "https://rukminim1.flixcart.com/image/850/1000/kll7bm80/regionalbooks/y/z/3/pather-panchali-original-imagyzd7tgqu2mrg.jpeg?q=90",
       "dis": "Pather Panchali is a 1955 Indian Bengali-language drama film written and directed by Satyajit Ray and produced by the Government of West Bengal.",
-      "time": "8 hour"
+      "time": 8
     },
     {
       "id": 4,
@@ -29,7 +29,7 @@
       "writer": "Rabindranath Tagore",
       "img": "https://m.media-amazon.com/images/M/MV5BMDhmYWE5OTYtMzI4NC00NzFkLWIwNjktZTEwODdlZGViN2MxXkEyXkFqcGdeQXVyMTAyNTA1MjY0._V1_FMjpg_UX1000_.jpg",
       "dis": "Chokher Bali is a 2003 Indian Bengali language drama film based on the 1903 novel Chokher Bali by Rabindranath Tagore.",
-      "time": "3 hour"
+      "time": 3
     },
     {
       "id": 5,
@@ -37,7 +37,7 @@
       "writer": " Bongobondhu Sheikh Mujibur Rahma",
       "img": "https://bdebooks.com/wp-content/uploads/2019/10/17235655.jpg",
       "dis": "Writer Name, Mostaque Ahamed – মোশতাক আহমেদ",
-      "time": "10 hour"
+      "time":10
     },
     {
       "id": 6,
@@ -45,6 +45,6 @@
       "writer": "Muhammad Jafor Iqbal",
       "img": "https://static-01.daraz.com.bd/p/05d267222c6dfb5825c9f6d253691e84.jpg",
       "dis": "is a very popular Bengali novel. This book was written by Muhammad Zafar Iqbal a very famous author. ",
-      "time": "2 hour"
+      "time": 2
     }
   ]
